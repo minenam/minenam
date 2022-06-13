@@ -1,4 +1,4 @@
-## Hello 👋, I'm Hyemin Nam  
+## Hyemin Nam
 
 <!--
 **minenam/minenam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <a href="https://github.com/minenam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
 
-<!-- ## Summary
+ ## Summary
 - _Comming Soon_ -->
   
 <br/>  
@@ -45,8 +44,8 @@ Here are some ideas to get you started:
 
 <br/>   -->
 
-
-## Github Stats  
+<!--
+## Github Stats   -->
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=minenam&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
@@ -57,10 +56,4 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-<br/>  
-
-
-<br />
-
-----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
