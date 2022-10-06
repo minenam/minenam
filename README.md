@@ -44,16 +44,23 @@ Here are some ideas to get you started:
 
 <br/>   -->
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=minenam&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+
 <!--
-## Github Stats   -->
+## Github Stats   
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=minenam&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
 </td><td valign="top" width="50%">
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minenam&theme=github_dark&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
+
 </td></tr></table>  
+
+-->
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
