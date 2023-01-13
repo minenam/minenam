@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 
 <br/>   -->
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=minenam&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minenam&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
 <!--
 ## Github Stats   
