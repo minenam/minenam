@@ -5,6 +5,9 @@
 <a href="https://github.com/minenam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
+<br/>  
+<br/> 
 <!--
 **minenam/minenam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,16 +20,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-<br/>  
-<br/>  
 
- ### Languages and Tools   
+ ### Languages and Technologies
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestJS&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/mongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>   
 
@@ -38,6 +41,35 @@ Here are some ideas to get you started:
 <br/>  
 
 <!--
+```typescript
+class Myself {
+    username: string;
+    position: string;
+    code: {
+        backend: string[];
+        database: string[];
+        devops: string[];
+    };
+    architecture: string[];
+
+    constructor() {
+        this.username = 'minenam';
+        this.position = 'Backend Developer';
+        this.code = {
+            backend: ['TypeScript', 'JavaScript', 'NodeJS', 'Express.js', 'NestJS'],
+            database: ['PostgreSQL', 'Mongo DB'],
+            devops: ['Docker', 'AWS']
+        };
+        this.architecture = ['Serverless', 'microservices'];
+    }
+
+    toString(): string {
+        return `${this.username} | ${this.position}`;
+    }
+}
+const me = new Myself();
+console.log(me.toString());
+```
 
 <table><tr><td valign="top" width="50%">
 
