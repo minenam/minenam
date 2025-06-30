@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 <br/>   
 
 ### Github Stats   
-<div>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minenam&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minenam&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
 
 <br/>  
 
@@ -57,7 +55,7 @@ class Myself {
         this.position = 'Backend Developer';
         this.code = {
             backend: ['TypeScript', 'JavaScript', 'NodeJS', 'Express.js', 'NestJS'],
-            database: ['PostgreSQL', 'Mongo DB'],
+            database: ['PostgreSQL', 'MongoDB'],
             devops: ['Docker', 'AWS']
         };
         this.architecture = ['Serverless', 'microservices'];
